@@ -1,10 +1,11 @@
-const flowers = ["🌸","🌼","🌻","🌷","🐕","🐈","🦒"];
+const flowers = ["🌸","🌼","🌻","🌷","🐕","🐈","🦋"];
 
 const flowerURL = [
 "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg",
 "https://nyanko-peace-winds-org.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2025/01/28094017/1_AdobeStock_128624186-2048x1193.jpeg",
 "https://aikenonline.jp/contents/wp-content/uploads/2025/07/AdobeStock_397179585.jpeg",
-"https://www.yamanashibank.co.jp/fuji_note/tanuki_05.jpg"
+"https://www.yamanashibank.co.jp/fuji_note/tanuki_05.jpg",
+"https://img.cooljapan-videos.com/r/1000x666/files/article_images/5e3cb6bc8fad7f07fdf01bd1f35f08b7.jpg.webp"
 ];
 
 

@@ -2,7 +2,10 @@
   "manifest_version": 3,
   "name": "Flower Page",
   "version": "1.0",
-  "description": "ページの文字を全部花にする",
+  "description": "Replace webpage text and images with flowers and animals.",
+  "icons": {
+    "128": "icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
