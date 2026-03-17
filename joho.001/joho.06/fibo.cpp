@@ -1,3 +1,0 @@
-int fibo(int n){
-    
-}
